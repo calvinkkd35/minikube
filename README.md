@@ -11,7 +11,7 @@
 
 <img src="https://github.com/kubernetes/minikube/raw/master/images/logo/logo.png" width="100" alt="minikube logo">
 
-minikube implements a local Kubernetes cluster on macOS, Linux, and Windows. minikube's [primary goals](https://minikube.sigs.k8s.io/docs/concepts/principles/) are to be the best tool for local Kubernetes application development and to support all Kubernetes features that fit. 
+minikube implements a local Kubernetes cluster on macOS, Linux, and Windows. minikube's [primary goals](https://minikube.sigs.k8s.io/docs/concepts/principles/) are to be the best tool for local Kubernetes application development and to support all Kubernetes features that fit.
 
 <img src="https://github.com/kubernetes/minikube/raw/master/site/content/en/start.png" width="738" alt="screenshot">
 
@@ -61,4 +61,4 @@ minikube is a Kubernetes [#sig-cluster-lifecycle](https://github.com/kubernetes/
 
 * [Contributing](https://minikube.sigs.k8s.io/docs/contributing/)
 * [Development Roadmap](https://minikube.sigs.k8s.io/docs/contributing/roadmap/)
-
+* [Development Roadmap](https://minikube.com)
